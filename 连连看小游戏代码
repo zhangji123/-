@@ -19,7 +19,7 @@ public class lianliankan implements ActionListener {
 	private int rows;
 
 	public void init() {
-		mainFrame = new JFrame("JKJ连连看");
+		mainFrame = new JFrame("王庆祥的连连看小游戏");
 		thisContainer = mainFrame.getContentPane();
 		thisContainer.setLayout(new BorderLayout());
 		centerPanel = new JPanel();
